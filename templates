@@ -1,5 +1,11 @@
-python-test/
-    main.py
-    requirements.txt
-    templates/
-        index.html
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>موقع هنادي</title>
+</head>
+<body>
+    <h1>أهلاً هنادي! هذا موقعك شغال على Render</h1>
+    <p>تقدرين تضيفين أي شيء تبينه هنا.</p>
+</body>
+</html>
